@@ -14,17 +14,17 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; 70047XXXXX
+                  <i className="fa-solid fa-phone"></i> &nbsp; 97137XXXXX
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                manishakri05023@gmail.com"
+                Saurabhpathakgmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; manishakri05023@gmail.com
+                  &nbsp; Saurabhpathakgmail.com
                 </a>
               </li>
 
@@ -33,9 +33,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/manishakumari1002"
+                  href="https://github.com/saurabhpathak07"
                 >
-                  Design with ❤️ by Manisha Kumari
+                  Design with ❤️ by Saurabh Pathak
                 </a>
               </li>
             </ul>

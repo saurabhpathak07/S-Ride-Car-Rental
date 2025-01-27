@@ -42,7 +42,7 @@ function Team() {
               <h2>Book a car by getting in touch with us</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>70047XXXXX</h3>
+                <h3>97137XXXXX</h3>
               </span>
             </div>
           </div>

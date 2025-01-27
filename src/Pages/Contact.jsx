@@ -16,11 +16,11 @@ function Contact() {
                 years of experience.
               </p>
               <a href="/">
-                <i className="fa-solid fa-phone"></i>&nbsp; 70047XXXXX
+                <i className="fa-solid fa-phone"></i>&nbsp; 97137XXXXX
               </a>
               <a href="/">
                 <i className="fa-solid fa-envelope"></i>&nbsp;
-                manishakri05023@gmail.com
+                Saurabhpathak997778@gmail.com
               </a>
               <a href="/">
                 <i className="fa-solid fa-location-dot"></i>&nbsp; Bhopal,
@@ -59,7 +59,7 @@ function Contact() {
               <h2>Book a car by getting in touch with us</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>70047XXXXX</h3>
+                <h3>97137XXXXX</h3>
               </span>
             </div>
           </div>
